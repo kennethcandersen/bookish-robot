@@ -1,4 +1,4 @@
-# Kickstarter Campaign Analysis
+# Kickstarter Campaign Analysis: Keys to Successful Projects
 
 The mission of this project was to identify certain factors that lend Kickstarter campaigns to be successful - or failures - by analyzing data from over 4,000 campaigns in Excel. 
 
